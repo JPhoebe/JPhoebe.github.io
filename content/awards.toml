@@ -6,7 +6,7 @@ description = "Honors and awards I have received."
 title = "FLUXNET Secondment"
 subtitle = "FLUXNET"
 date = "2026"
-content = "Supported my visit to INRAE, Nancy in France to study the plant hydraulics. Details could be found at FLUXNET's webpage [here] (https://fluxnet.org/community/secondment-program/)."
+content = "Supported my visit to INRAE, Nancy in France to study the plant hydraulics. Details could be found at FLUXNET's webpage [here](https://fluxnet.org/community/secondment-program/)."
 
 [[items]]
 title = "Tanner Award"
