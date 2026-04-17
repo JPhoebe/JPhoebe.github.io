@@ -3,25 +3,22 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "FLUXNET Secondment"
+subtitle = "FLUXNET"
+date = "2026"
+content = "Supported my visit to INRAE, Nancy in France to study the plant hydraulics. Details could be found at FLUXNET's webpage [here] (https://fluxnet.org/community/secondment-program/)."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Tanner Award"
+subtitle = "UW-Madison Soil Science Department"
+date = "2022 & 2023"
+content = "Supported my travel to present at AGU Conferences in 2022 and 2023."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Student Research Grants Competition Award"
+subtitle = "Wisconsin Scholarship Hub"
+date = "2021"
+content = "Supported my travel to present at AGU Conference in 2021."
 
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+
+

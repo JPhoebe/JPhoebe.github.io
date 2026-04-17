@@ -1,5 +1,6 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Postdoctoral researcher at West Virginia University in the Kannenberg lab.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I obtained a PhD degree in Soil Science from the University of Wisconsin-Madison.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My current research focuses on investigating the large-scale terrestrial hydrologic processes under drought.
+

@@ -1,26 +1,23 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**University of Wisconsin-Madison**, PhD in Soil Science, *2019 - 2024*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+* Dissertation: Investigating the Soil-Plant-Atmosphere Interactions across National Ecological Observatory Network (NEON) Sites in the USA
+* Supervisor: Prof. Jingyi Huang
 
-## Experience
+**Zhejiang University**, MAg in Agricultural Remote Sensing, *2016 - 2019*
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+* Thesis: Estimation of Soil Salinity in Arid Area Based on Multi-Source Remote Sensing
+
+**Anhui Normal University**, BSc in Geographic Information Science, *2012 - 2016*
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+* **Programming:** Python, R, C++, MATLAB, GEE
+* **Data Analysis:** Spatial analysis (ArcGIS, ENVI, eCognition), Time-series analysis, Attribution analysis
+* **Modeling:** Machine learning, Ecosystem modeling, Land surface modeling (CTSM)
+* **Field \& Lab:** TDR and capacitance based soil moisture monitoring, Electromagnetic conductivity based soil salinity mapping, Soil core and tree ring sampling, Traditional and spectroscopy based soil property measuring, etc.
+* **Languages:** Mandarin (Native), English (Fluent)
 
-## Awards & Honors
+## 
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)

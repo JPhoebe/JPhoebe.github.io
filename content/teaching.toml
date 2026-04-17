@@ -3,8 +3,8 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
+title = "Soil Physics 322 & 622"
 subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+date = "2020, 2021"
+content = "Helped with the lab demonstrations, lecture presentation, and group discussions. Specifically, I Led lab demonstrations of multiple soil sensors including mini-disk infiltrometer, pressure plate apparatus, etc. Content of these courses can be found at Prof. Jingyi Huang's website [here](https://soilsensingmonitoring.soils.wisc.edu/teaching/)."
+tags = ["Soil Science", "Sensing & Monitoring"]
